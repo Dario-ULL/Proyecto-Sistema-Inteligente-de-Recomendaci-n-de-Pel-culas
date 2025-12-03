@@ -1,0 +1,380 @@
+[
+    {
+        "movieId":170705,
+        "genre_principal":"Action",
+        "title":"Band of Brothers (2001)",
+        "rating_promedio":4.4265385984,
+        "num_ratings":2811
+    },
+    {
+        "movieId":2959,
+        "genre_principal":"Action",
+        "title":"Fight Club (1999)",
+        "rating_promedio":4.2287798065,
+        "num_ratings":77332
+    },
+    {
+        "movieId":2019,
+        "genre_principal":"Action",
+        "title":"Seven Samurai (Shichinin no samurai) (1954)",
+        "rating_promedio":4.2496219224,
+        "num_ratings":16531
+    },
+    {
+        "movieId":1136,
+        "genre_principal":"Adventure",
+        "title":"Monty Python and the Holy Grail (1975)",
+        "rating_promedio":4.1356325793,
+        "num_ratings":46508
+    },
+    {
+        "movieId":5618,
+        "genre_principal":"Adventure",
+        "title":"Spirited Away (Sen to Chihiro no kamikakushi) (2001)",
+        "rating_promedio":4.2131071311,
+        "num_ratings":33333
+    },
+    {
+        "movieId":163809,
+        "genre_principal":"Adventure",
+        "title":"Over the Garden Wall (2013)",
+        "rating_promedio":4.2637795276,
+        "num_ratings":1397
+    },
+    {
+        "movieId":157373,
+        "genre_principal":"Animation",
+        "title":"It's Such a Beautiful Day (2011)",
+        "rating_promedio":4.1803030303,
+        "num_ratings":330
+    },
+    {
+        "movieId":5971,
+        "genre_principal":"Animation",
+        "title":"My Neighbor Totoro (Tonari no Totoro) (1988)",
+        "rating_promedio":4.1617733845,
+        "num_ratings":13556
+    },
+    {
+        "movieId":170777,
+        "genre_principal":"Animation",
+        "title":"There Once Was a Dog (1982)",
+        "rating_promedio":4.1612149533,
+        "num_ratings":428
+    },
+    {
+        "movieId":953,
+        "genre_principal":"Children",
+        "title":"It's a Wonderful Life (1946)",
+        "rating_promedio":4.0391313813,
+        "num_ratings":18374
+    },
+    {
+        "movieId":118085,
+        "genre_principal":"Children",
+        "title":"Welcome, or No Trespassing (1964)",
+        "rating_promedio":3.990990991,
+        "num_ratings":111
+    },
+    {
+        "movieId":2804,
+        "genre_principal":"Children",
+        "title":"Christmas Story, A (1983)",
+        "rating_promedio":3.9731286628,
+        "num_ratings":15016
+    },
+    {
+        "movieId":202439,
+        "genre_principal":"Comedy",
+        "title":"Parasite (2019)",
+        "rating_promedio":4.3122536418,
+        "num_ratings":11670
+    },
+    {
+        "movieId":750,
+        "genre_principal":"Comedy",
+        "title":"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",
+        "rating_promedio":4.2026804752,
+        "num_ratings":32830
+    },
+    {
+        "movieId":296,
+        "genre_principal":"Comedy",
+        "title":"Pulp Fiction (1994)",
+        "rating_promedio":4.1969687732,
+        "num_ratings":98409
+    },
+    {
+        "movieId":50,
+        "genre_principal":"Crime",
+        "title":"Usual Suspects, The (1995)",
+        "rating_promedio":4.2650701107,
+        "num_ratings":67750
+    },
+    {
+        "movieId":858,
+        "genre_principal":"Crime",
+        "title":"Godfather, The (1972)",
+        "rating_promedio":4.3170304034,
+        "num_ratings":66440
+    },
+    {
+        "movieId":318,
+        "genre_principal":"Crime",
+        "title":"Shawshank Redemption, The (1994)",
+        "rating_promedio":4.40461386,
+        "num_ratings":102929
+    },
+    {
+        "movieId":171011,
+        "genre_principal":"Documentary",
+        "title":"Planet Earth II (2016)",
+        "rating_promedio":4.4468302658,
+        "num_ratings":1956
+    },
+    {
+        "movieId":179135,
+        "genre_principal":"Documentary",
+        "title":"Blue Planet II (2017)",
+        "rating_promedio":4.3000859845,
+        "num_ratings":1163
+    },
+    {
+        "movieId":159817,
+        "genre_principal":"Documentary",
+        "title":"Planet Earth (2006)",
+        "rating_promedio":4.4443690638,
+        "num_ratings":2948
+    },
+    {
+        "movieId":1203,
+        "genre_principal":"Drama",
+        "title":"12 Angry Men (1957)",
+        "rating_promedio":4.2653112565,
+        "num_ratings":21863
+    },
+    {
+        "movieId":220528,
+        "genre_principal":"Drama",
+        "title":"Twelve Angry Men (1954)",
+        "rating_promedio":4.2861915367,
+        "num_ratings":449
+    },
+    {
+        "movieId":198185,
+        "genre_principal":"Drama",
+        "title":"Twin Peaks (1989)",
+        "rating_promedio":4.2986842105,
+        "num_ratings":1140
+    },
+    {
+        "movieId":177951,
+        "genre_principal":"Fantasy",
+        "title":"Happy! (2017)",
+        "rating_promedio":3.85,
+        "num_ratings":100
+    },
+    {
+        "movieId":51573,
+        "genre_principal":"Fantasy",
+        "title":"Meshes of the Afternoon (1943)",
+        "rating_promedio":3.8962264151,
+        "num_ratings":318
+    },
+    {
+        "movieId":1199,
+        "genre_principal":"Fantasy",
+        "title":"Brazil (1985)",
+        "rating_promedio":4.0067639825,
+        "num_ratings":18702
+    },
+    {
+        "movieId":1212,
+        "genre_principal":"Film-Noir",
+        "title":"Third Man, The (1949)",
+        "rating_promedio":4.1846877479,
+        "num_ratings":8823
+    },
+    {
+        "movieId":913,
+        "genre_principal":"Film-Noir",
+        "title":"Maltese Falcon, The (1941)",
+        "rating_promedio":4.1456307259,
+        "num_ratings":14190
+    },
+    {
+        "movieId":930,
+        "genre_principal":"Film-Noir",
+        "title":"Notorious (1946)",
+        "rating_promedio":4.1465112378,
+        "num_ratings":5962
+    },
+    {
+        "movieId":1214,
+        "genre_principal":"Horror",
+        "title":"Alien (1979)",
+        "rating_promedio":4.0684014952,
+        "num_ratings":45211
+    },
+    {
+        "movieId":1258,
+        "genre_principal":"Horror",
+        "title":"Shining, The (1980)",
+        "rating_promedio":4.0364389234,
+        "num_ratings":38640
+    },
+    {
+        "movieId":168250,
+        "genre_principal":"Horror",
+        "title":"Get Out (2017)",
+        "rating_promedio":3.9911379399,
+        "num_ratings":11679
+    },
+    {
+        "movieId":918,
+        "genre_principal":"Musical",
+        "title":"Meet Me in St. Louis (1944)",
+        "rating_promedio":3.7190745987,
+        "num_ratings":2118
+    },
+    {
+        "movieId":900,
+        "genre_principal":"Musical",
+        "title":"American in Paris, An (1951)",
+        "rating_promedio":3.7791116447,
+        "num_ratings":3332
+    },
+    {
+        "movieId":1035,
+        "genre_principal":"Musical",
+        "title":"Sound of Music, The (1965)",
+        "rating_promedio":3.8070301291,
+        "num_ratings":18122
+    },
+    {
+        "movieId":904,
+        "genre_principal":"Mystery",
+        "title":"Rear Window (1954)",
+        "rating_promedio":4.2267009605,
+        "num_ratings":24883
+    },
+    {
+        "movieId":4226,
+        "genre_principal":"Mystery",
+        "title":"Memento (2000)",
+        "rating_promedio":4.1416005069,
+        "num_ratings":53658
+    },
+    {
+        "movieId":27773,
+        "genre_principal":"Mystery",
+        "title":"Old Boy (2003)",
+        "rating_promedio":4.0894639663,
+        "num_ratings":17331
+    },
+    {
+        "movieId":2708,
+        "genre_principal":"Romance",
+        "title":"Autumn Tale, An (Conte d'automne) (1998)",
+        "rating_promedio":3.7005444646,
+        "num_ratings":551
+    },
+    {
+        "movieId":3368,
+        "genre_principal":"Romance",
+        "title":"Big Country, The (1958)",
+        "rating_promedio":3.7592165899,
+        "num_ratings":434
+    },
+    {
+        "movieId":8477,
+        "genre_principal":"Romance",
+        "title":"Jetée, La (1962)",
+        "rating_promedio":4.02154047,
+        "num_ratings":1532
+    },
+    {
+        "movieId":164179,
+        "genre_principal":"Sci-Fi",
+        "title":"Arrival (2016)",
+        "rating_promedio":4.0451828589,
+        "num_ratings":19742
+    },
+    {
+        "movieId":176371,
+        "genre_principal":"Sci-Fi",
+        "title":"Blade Runner 2049 (2017)",
+        "rating_promedio":3.9572742023,
+        "num_ratings":11094
+    },
+    {
+        "movieId":109487,
+        "genre_principal":"Sci-Fi",
+        "title":"Interstellar (2014)",
+        "rating_promedio":4.1334472643,
+        "num_ratings":37157
+    },
+    {
+        "movieId":167832,
+        "genre_principal":"Thriller",
+        "title":"The Invisible Guest (2016)",
+        "rating_promedio":4.0282948622,
+        "num_ratings":1343
+    },
+    {
+        "movieId":142488,
+        "genre_principal":"Thriller",
+        "title":"Spotlight (2015)",
+        "rating_promedio":4.0720085711,
+        "num_ratings":8867
+    },
+    {
+        "movieId":3634,
+        "genre_principal":"Thriller",
+        "title":"Seven Days in May (1964)",
+        "rating_promedio":3.9906219151,
+        "num_ratings":1013
+    },
+    {
+        "movieId":2670,
+        "genre_principal":"War",
+        "title":"Run Silent Run Deep (1958)",
+        "rating_promedio":3.8840262582,
+        "num_ratings":1371
+    },
+    {
+        "movieId":156944,
+        "genre_principal":"War",
+        "title":"Land of Mine (2015)",
+        "rating_promedio":3.7431972789,
+        "num_ratings":294
+    },
+    {
+        "movieId":1450,
+        "genre_principal":"War",
+        "title":"Prisoner of the Mountains (Kavkazsky plennik) (1996)",
+        "rating_promedio":3.7284768212,
+        "num_ratings":302
+    },
+    {
+        "movieId":3037,
+        "genre_principal":"Western",
+        "title":"Little Big Man (1970)",
+        "rating_promedio":3.9620875263,
+        "num_ratings":4273
+    },
+    {
+        "movieId":128360,
+        "genre_principal":"Western",
+        "title":"The Hateful Eight (2015)",
+        "rating_promedio":3.8829385965,
+        "num_ratings":11400
+    },
+    {
+        "movieId":4329,
+        "genre_principal":"Western",
+        "title":"Rio Bravo (1959)",
+        "rating_promedio":3.8579577867,
+        "num_ratings":1753
+    }
+]
